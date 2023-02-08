@@ -41,9 +41,8 @@ Este código é um jogo do Flappy Bird utilizando a biblioteca Pygame e a biblio
 <br>
 
 ## 📸 Layouts
-Video da execulção do prejeto no drive
 
-https://user-images.githubusercontent.com/83669560/216595818-d249c0f1-2dbf-4975-955d-5e3e0e2c2dc9.mp4
+https://user-images.githubusercontent.com/83669560/217498088-a69d91c2-de39-4be7-b849-f2767cf91d91.mp4
 
 <br>
 
